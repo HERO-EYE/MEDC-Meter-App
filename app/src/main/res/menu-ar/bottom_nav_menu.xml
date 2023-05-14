@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_statistics"
+        android:icon="@drawable/statistics"
+        android:title="Charts" />
+
+
+    <item
+        android:id="@+id/navigation_target"
+        android:icon="@drawable/target"
+        android:title="Target" />
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/meter"
+        android:title="Meter Data" />
+
+
+</menu>
